@@ -1,5 +1,3 @@
-Certainly! Here's the content for your `README.md` file:
-
 ```markdown
 # College Department Information System
 
